@@ -1,2 +1,1 @@
-"Banco de Dados de um PetShop com algumas consultas no arquivo. 
-Contém a modelagem de dados juntamente com o script SQL e as queries utilizadas. Feito em MySQL." 
+MySQL database from a PetShop with some queries in the file. Has the data modeling (entity-relationship diagram), along with the SQL script and the queries used.
