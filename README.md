@@ -10,7 +10,9 @@ Para isso, você irá precisar basicamente ter um servidor local em sua máquina
 Links úteis: 
 
 XAMPP: https://www.apachefriends.org/pt_br/index.html
+
 WAMP: https://www.wampserver.com/en/
+
 MySQL Workbench: https://dev.mysql.com/downloads/workbench/
 
 No meu caso, estou utilizando o XAMPP e os servidores de Apache e MySQL estão ativos: 
